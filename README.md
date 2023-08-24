@@ -7,10 +7,11 @@
 </h1>
 
 ***
+
 <p align="center">
-<a href="https://chrome.google.com/webstore/detail/youtube-manual-ad-remover/jfbjbbfpbogjffpkcfmchfgamgioniea">
-  <img src="https://github.com/Keinsleif/youtube-manual-ad-remover/assets/36069591/5ab01d6f-7d76-45df-b309-be6b5a89fb3c" width="300"/>
-</a>
+  <a href="https://chrome.google.com/webstore/detail/youtube-manual-ad-remover/jfbjbbfpbogjffpkcfmchfgamgioniea">
+    <img src="https://gist.githubusercontent.com/Keinsleif/25e76d4dac22454e94b56671363ae87a/raw/0a3343c9421f623cab07cceb25b5eca159e5a1b2/webstore.svg" width="300"/>
+  </a>
 </p>
 
 ***

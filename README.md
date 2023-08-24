@@ -2,7 +2,7 @@
 ***
 
 <h1 align="center">
-  <img src="https://github.com/Keinsleif/youtube-manual-ad-remover/blob/master/128.png" height="32" width="32" />
+  <img src="https://github.com/Keinsleif/youtube-manual-ad-remover/blob/master/src/128.png" height="32" width="32" />
   Youtube Manual AD Remover
 </h1>
 

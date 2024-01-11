@@ -44,7 +44,7 @@ body:
         - Windows
         - macOS
         - Linux
-        - Other
+        - other
       default: 0
     validations:
       required: true
@@ -53,3 +53,5 @@ body:
     attributes:
       label: Using extensions
       description: Please list the extensions you are using with youtube-manual-ad-remover.
+    validations:
+      required: true

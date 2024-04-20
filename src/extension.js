@@ -4,6 +4,10 @@ window.addEventListener("keydown", function (e) {
         if (elements) {
             elements.click();
         }
+        elements = document.querySelector("button[class*=skip-ad]");
+        if (elements) {
+            elements.click();
+        }
         elements = document.querySelector("button[class*=ad-overlay-close]");
         if (elements) {
             elements.click();
